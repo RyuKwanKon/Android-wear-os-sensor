@@ -134,6 +134,7 @@ class AcceptThread(private val bluetoothAdapter: BluetoothAdapter, private var a
 }
 ```
 </details>
+
 ![Frame 1 (1)](https://user-images.githubusercontent.com/97783148/219408603-469d7b05-6ec6-4a81-b01a-cd647b2499c1.png)
 
 
