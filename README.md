@@ -61,6 +61,13 @@ dependencies {
 <uses-permission android:name="android.permission.BODY_SENSORS" />
 <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
 <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+<application>
+    <service
+        android:name=".SensorService"
+        android:enabled="true"
+        android:exported="true" />
+</application>
 ```
 </details>
 <details>
